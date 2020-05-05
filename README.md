@@ -11,4 +11,5 @@ Day 1 : First Bad Version --> Binary Search --> https://bit.ly/3bWEYvX <br/>
 Day 2 : Jewels and Stones --> Brute Force (Space Time Trade off) --> https://bit.ly/35pcLeG <br/>
 Day 3 : Ransom Note --> Frquency Map --> https://bit.ly/2YuigaO <br/>
 Day 4 : Number Complement --> Bit Manipulation --> https://bit.ly/2W2EZcn <br/>
+Day 5 : First Unique Character in String --> Frequency Map --> https://bit.ly/2yvwMUT <br/>
 
