@@ -13,4 +13,5 @@ Day 3 : Ransom Note --> Frquency Map --> https://bit.ly/2YuigaO <br/>
 Day 4 : Number Complement --> Bit Manipulation --> https://bit.ly/2W2EZcn <br/>
 Day 5 : First Unique Character in String --> Frequency Map --> https://bit.ly/2yvwMUT <br/>
 Day 6 : Majority Element --> Boyer-Moore Voting Algorithm --> https://bit.ly/2WaFLUF <br />
+Day 7 : Cousins in Binary Tree --> Tree Traversal --> https://bit.ly/2YFkXGm <br/>
 
