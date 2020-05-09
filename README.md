@@ -15,4 +15,5 @@ Day 5 : First Unique Character in String --> Frequency Map --> https://bit.ly/2y
 Day 6 : Majority Element --> Boyer-Moore Voting Algorithm --> https://bit.ly/2WaFLUF <br />
 Day 7 : Cousins in Binary Tree --> Tree Traversal --> https://bit.ly/2YFkXGm <br/>
 Day 8 : Check if a Straight Line --> Mathematics --> https://bit.ly/3cdrBYo <br/>
+Day 9 : Valid Perfect Square --> Binary Search / Mathematics --> https://bit.ly/3clRe9I <br/>
 
