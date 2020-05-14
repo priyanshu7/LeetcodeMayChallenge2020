@@ -20,3 +20,6 @@ Day 10 : Find the Town Judge --> Graph Indegree Outdegree --> https://bit.ly/2Wj
 Day 11 : Flood Fill --> Recursion --> https://bit.ly/3clcvA8 <br/>
 Day 12 : Single Element in Sorted Array --> Binary Search --> https://bit.ly/2WmYsVi <br/>
 Day 13 : Remove K digits --> String Builder & Stack --> https://bit.ly/3bnFhPm <br/>
+Day 14 : Trie (Prefix Tree) --> Trie Data Structure Implementation --> https://bit.ly/2yUOUI9 <br/>
+
+
