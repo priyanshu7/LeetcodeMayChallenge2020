@@ -25,5 +25,5 @@ Day 15 : Max Sum Circular Subarray --> Kadane's (Got stuck with corner case) -->
 Day 16 : Odd Even Linked List --> Linked List --> https://bit.ly/3dRKjW8 <br/>
 Day 17 : Find All Anagrams in a String --> Sliding Window (Bringing down Time complexity) -->https://bit.ly/2Ttwfuf <br/>
 Day 18 : Permutation in String --> Sliding Window (Optimization) --> https://bit.ly/2LBFlAr <br/>
-
+Day 19 : Stock Spanner --> Stack and Data Structure Design --> https://bit.ly/36hUPDh <br/>
 
