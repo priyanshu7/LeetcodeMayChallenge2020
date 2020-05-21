@@ -27,7 +27,7 @@ Day 17 : Find All Anagrams in a String --> Sliding Window (Bringing down Time co
 Day 18 : Permutation in String --> Sliding Window (Optimization) --> https://bit.ly/2LBFlAr <br/>
 Day 19 : Stock Spanner --> Stack and Data Structure Design --> https://bit.ly/36hUPDh <br/>
 Day 20 : Kth Smallest in BST --> BST property & Traversal --> https://bit.ly/2TmXVkp <br/>
-
+Day 21 : Count Square Submatrices with All Ones --> Dynamic Programming --> https://bit.ly/2ZnO3dV <br/>
 
 
 
