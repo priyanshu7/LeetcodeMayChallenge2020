@@ -1,4 +1,4 @@
-# LeetcodeMayChallenge2020
+# LeetCode May Challenge 2020
 The 31 day leetcode challenge! One day , one problem! #leetcode #challenge
 
 ![](img.png)
