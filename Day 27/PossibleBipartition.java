@@ -2,7 +2,7 @@ package may2020;
 
 import java.util.*;
 
-public class PossibleBipartitation {
+public class PossibleBipartition {
 	
     public static boolean possibleBipartition(int N, int[][] dislikes) {
         Map<Integer, List<Integer>> graph = new HashMap<>();
