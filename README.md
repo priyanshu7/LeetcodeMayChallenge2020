@@ -33,7 +33,7 @@ Day 23 : Interval List Intersections --> Two Pointer --> https://bit.ly/2LUCOBz 
 Day 24 : Construct BST from Preorder --> Trees & Recursion --> https://bit.ly/3cYqSed <br/>
 Day 25 : Uncrossed Lines --> Dynamic Programming --> https://bit.ly/2ZAwEyA <br/>
 Day 26 : Contiguous Array --> Arrays & Hashmap --> https://bit.ly/3grjvxJ <br/>
-
+Day 27 : Possible Bipartition --> Graph construction + BFS/DFS --> https://bit.ly/36DBgFU <br/>
 
 
 
