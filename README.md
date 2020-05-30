@@ -36,5 +36,5 @@ Day 26 : Contiguous Array --> Arrays & Hashmap --> https://bit.ly/3grjvxJ <br/>
 Day 27 : Possible Bipartition --> Graph construction + BFS/DFS --> https://bit.ly/36DBgFU <br/>
 Day 28 : Counting Bits --> DP (Took a while to grasp the pattern) --> https://bit.ly/3gFQbUC <br/>
 Day 29 : Course Schedule --> Graph (Topological Sort) --> https://bit.ly/2yOxqgC <br/>
-
+Day 30 : K Closest Points To Origin --> Heap --> https://bit.ly/3eBLgCm <br/>
 
